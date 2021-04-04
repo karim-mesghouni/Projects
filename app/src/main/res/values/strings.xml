@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quran</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email">Preview code on   </string>
+    <string name="doaa">Adkar</string>
+    <string name="qoran">Quran</string>
+
+    <string name="name1">&lt;a  href="http://www.google.com">    github&lt;/a></string>
+</resources>
